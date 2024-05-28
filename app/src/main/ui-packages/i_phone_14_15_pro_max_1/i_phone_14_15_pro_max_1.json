@@ -1,0 +1,917 @@
+{
+  "name": "i_phone_14_15_pro_max_1",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "SClKKO5Hp265tDmVUKLxvc",
+    "node": "5:2",
+    "version": "5860836735",
+    "component-id": "4d3e5d613c6fa3345314b3b5cce593aa598ab6e1"
+  },
+  "default": "iPhone 14 & 15 Pro Max - 1",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Row"
+      },
+      {
+        "type": "group",
+        "id": "01 Input Field"
+      },
+      {
+        "type": "group",
+        "id": "🦆 icon \"search\""
+      },
+      {
+        "type": "text",
+        "id": "Popular Tags"
+      },
+      {
+        "type": "text",
+        "id": "View All"
+      },
+      {
+        "type": "text",
+        "id": "View All1"
+      },
+      {
+        "type": "text",
+        "id": "View All2"
+      },
+      {
+        "type": "text",
+        "id": "#BBC #FridayMorning #DigitalCurrency #Shitcoin #SundayVibes #Rocket"
+      },
+      {
+        "type": "text",
+        "id": "Latest News"
+      },
+      {
+        "type": "vector",
+        "id": "Line 1"
+      },
+      {
+        "type": "vector",
+        "id": "Line 2"
+      },
+      {
+        "type": "text",
+        "id": "Recommendation Topic"
+      },
+      {
+        "type": "image",
+        "id": "random 1"
+      },
+      {
+        "type": "text",
+        "id": "Prices for eggs scy rocket!"
+      },
+      {
+        "type": "image",
+        "id": "random 3"
+      },
+      {
+        "type": "text",
+        "id": "Prices for eggs scy rocket!1"
+      },
+      {
+        "type": "image",
+        "id": "random 2"
+      },
+      {
+        "type": "text",
+        "id": "Prices for eggs scy rocket!2"
+      },
+      {
+        "type": "group",
+        "id": "Carousel"
+      },
+      {
+        "type": "text",
+        "id": "Vladimir Putin with met a random guy in the Central Asia"
+      },
+      {
+        "type": "image",
+        "id": "eggs 1"
+      },
+      {
+        "type": "text",
+        "id": "Eggs for sale"
+      },
+      {
+        "type": "image",
+        "id": "ВВП 1"
+      },
+      {
+        "type": "text",
+        "id": "Label"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      }
+    ],
+    "modes": {
+      "iPhone 14 & 15 Pro Max - 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Row",
+              "01 Input Field",
+              "🦆 icon \"search\"",
+              "Popular Tags",
+              "View All",
+              "View All1",
+              "View All2",
+              "#BBC #FridayMorning #DigitalCurrency #Shitcoin #SundayVibes #Rocket",
+              "Latest News",
+              "Line 1",
+              "Line 2",
+              "Recommendation Topic",
+              "random 1",
+              "Prices for eggs scy rocket!",
+              "random 3",
+              "Prices for eggs scy rocket!1",
+              "random 2",
+              "Prices for eggs scy rocket!2"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Row",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 11.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 234.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 660.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 289.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Carousel",
+              "Vladimir Putin with met a random guy in the Central Asia",
+              "eggs 1",
+              "Eggs for sale"
+            ]
+          },
+          {
+            "id": "01 Input Field",
+            "padding": {
+              "left": 16.0,
+              "top": 12.0,
+              "right": 13.0,
+              "bottom": 12.0
+            },
+            "border-radius": 8.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.047058823529411764,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 2.0,
+              "offset-x": 0.0,
+              "offset-y": 1.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 22.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 48.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 386.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.8784313725490196
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Label"
+            ],
+            "item-spacing": 8.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "clip-content": false
+          },
+          {
+            "id": "🦆 icon \"search\"",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 369.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 60.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 25.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Popular Tags",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 113.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 27.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Popular Tags",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "View All",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 323.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 116.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 69.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 205.23076923076923,
+              "saturation": 0.9112149532710281,
+              "value": 0.8392156862745098
+            },
+            "text-content": "View All",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "View All1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 323.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 274.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 69.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 205.23076923076923,
+              "saturation": 0.9112149532710281,
+              "value": 0.8392156862745098
+            },
+            "text-content": "View All",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "View All2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 323.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 571.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 69.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 205.23076923076923,
+              "saturation": 0.9112149532710281,
+              "value": 0.8392156862745098
+            },
+            "text-content": "View All",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "#BBC #FridayMorning #DigitalCurrency #Shitcoin #SundayVibes #Rocket",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 150.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 361.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 54.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "#BBC #FridayMorning #DigitalCurrency\n#Shitcoin #SundayVibes #Rocket",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Latest News",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 274.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 22.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Latest News",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Line 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 256.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.00115966796875
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "line_1.svg"
+          },
+          {
+            "id": "Line 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 553.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0290832519531
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "line_2.svg"
+          },
+          {
+            "id": "Recommendation Topic",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 571.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 186.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 28.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Recommendation Topic",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "random 1",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 306.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 599.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 77.0
+              }
+            },
+            "image-content": "random_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Prices for eggs scy rocket!",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 620.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 205.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 28.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Prices for eggs scy rocket!",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "random 3",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 306.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 798.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 77.0
+              }
+            },
+            "image-content": "random_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Prices for eggs scy rocket!1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 819.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 205.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 28.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Prices for eggs scy rocket!",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "random 2",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 306.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 698.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 77.0
+              }
+            },
+            "image-content": "random_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Prices for eggs scy rocket!2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 719.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 205.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 28.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Prices for eggs scy rocket!",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Carousel",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 90.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "ВВП 1"
+            ],
+            "item-spacing": 12.0,
+            "clip-content": false
+          },
+          {
+            "id": "Vladimir Putin with met a random guy in the Central Asia",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 234.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 265.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 57.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Vladimir Putin with met a random guy in the Central Asia",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "eggs 1",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 280.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 90.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 256.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 144.0
+              }
+            },
+            "image-content": "eggs_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Eggs for sale",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 280.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 234.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Eggs for sale",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "ВВП 1",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 264.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 144.0
+              }
+            },
+            "image-content": "_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Label",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 263.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.5098039215686274
+            },
+            "text-content": "Placeholder",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.5,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Vector",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "iPhone 14 & 15 Pro Max - 1",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
